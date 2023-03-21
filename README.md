@@ -1,3 +1,3 @@
 I am an open-source engineer, a full-stack developer with extensive experience in web and mobile, a blockchain engineer, lead author of the 0xcert Protocol, co-author of ERC-2477 standard, co-author of the reference implementation of the ERC-721 non-fungible token standard, CTO veteran, startup mentor, web designer, and musician. I started my career back in 1996, and worked on numerous exciting projects for domestic and foreign startups, corporations, and government institutions.
 
-Open source is my passion. My focus is now mostly on the development of decentralized technologies and research in lower-level protocols. You can find me on Github (https://github.com/xpepermint), where I share some of my source code and contribute to various open-source projects.
+Open source is my passion. My focus is now mostly on the development of decentralized technologies and research in lower-level protocols.
